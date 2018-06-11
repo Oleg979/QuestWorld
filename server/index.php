@@ -42,10 +42,10 @@ $urlData = array_slice($urls, 1);
  
 //Создаем связь с бд
 
-$host = "localhost";
-$username = "u148682720_quest";
-$password = "mevpRiRia0ql";
-$db = "u148682720_quest";
+$host = "";
+$username = "";
+$password = "";
+$db = "";
 
 $connection = new mysqli($host, $username, $password, $db); 
  
