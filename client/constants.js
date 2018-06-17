@@ -1,0 +1,6 @@
+export const ALL_QUESTS_URL = "https://gt99.xyz/QuestAPI/quests"
+export const AUTH_URL = "https://gt99.xyz/QuestAPI/auth"
+export const REG_URL = "https://gt99.xyz/QuestAPI/reg"
+export const USER_URL = "https://gt99.xyz/QuestAPI/users/"
+export const QUEST_URL = "https://gt99.xyz/QuestAPI/quests/"
+export const ORDER_URL = "https://gt99.xyz/QuestAPI/order/"
